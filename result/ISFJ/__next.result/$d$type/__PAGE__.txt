@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/mbti2/_next/static/chunks/1_2cywsico7e4.js"
+3:"/mbti2/_next/static/chunks/00b8w5aq-5y7-.js"
+4:"/mbti2/_next/static/chunks/18r-tdc2l22u7.js"
+5:I[92205,["$2","$3","$4"],"default"]
+6:I[39756,["$2","$3","$4"],"default"]
+7:I[37457,["$2","$3","$4"],"default"]
+8:"/mbti2/_next/static/chunks/19ezvta8x0182.js"
+9:"/mbti2/_next/static/chunks/45bjy69cgoiz6.js"
+a:I[22016,["$2","$3","$4","$8","$9"],""]
+13:I[69881,["$2","$3","$4","$8","$9"],"default"]
+14:I[97367,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$2","$3","$4"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+1c:I[27201,["$2","$3","$4"],"IconMark"]
+:HL["/mbti2/_next/static/chunks/1d8eht_b1sluj.css","style"]
+:HL["/mbti2/_next/static/chunks/0zzeq6_com2uj.css","style"]
+c:X
+f:X
+f:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{"info":{"code":"ISFJ","nickname":"소리 없이 안아주는 따스한 온기","summary":"묵묵한 정성과 배려로 곁을 지키며 안정을 주는 따스한 보호자예요.","description":"주위 사람들의 사소한 취향과 말 한마디까지 다정하게 기억하고 챙겨줘요. 자신의 공을 드러내기보다는 뒤에서 조용히 돕는 일에 더 큰 보람과 만족을 느껴요. 가족과 친구, 소중한 사람들의 평화와 안정을 지키는 가장 포근한 버팀목이에요.","strengths":["섬세한 관찰력과 다정한 기억력","헌신적이고 깊은 배려심","모두에게 마음의 안정을 주는 차분한 조율력"],"cautions":["부탁을 거절하지 못해 혼자 무거운 짐을 떠안기 쉬워요.","속상한 감정을 속으로만 삭이다가 번아웃을 겪을 수 있어요."],"compatibleTypes":["ESFP","ESTP"],"color":"#fdba74","character":{"animal":"곰","name":"포근한 꿀단지 곰 수호천사"}}}],[["$","script","script-0",{"src":"/mbti2/_next/static/chunks/19ezvta8x0182.js","async":true}],["$","script","script-1",{"src":"/mbti2/_next/static/chunks/45bjy69cgoiz6.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$c"}}]]
+10:[["children",{"s":{"n":"type","t":"d","k":"ISFJ","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@11","v":"$f","s":"$c"},"c":"$Q12"}]]
+d:[["children",{"s":"result","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mbti2/_next/static/chunks/1d8eht_b1sluj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/mbti2/_next/static/chunks/0zzeq6_com2uj.css","precedence":"next"}],["$","script","script-0",{"src":"/mbti2/_next/static/chunks/1_2cywsico7e4.js","async":true}],["$","script","script-1",{"src":"/mbti2/_next/static/chunks/00b8w5aq-5y7-.js","async":true}],["$","script","script-2",{"src":"/mbti2/_next/static/chunks/18r-tdc2l22u7.js","async":true}]],["$","html",null,{"lang":"ko","className":"MXmIMq_className","children":["$","body",null,{"className":"min-h-screen bg-emerald-50/40 text-slate-800 antialiased flex flex-col items-center","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"flex-1 flex flex-col items-center justify-center text-center py-16 px-4","children":[["$","div",null,{"className":"w-24 h-24 rounded-3xl bg-emerald-100/80 border border-emerald-200/60 flex items-center justify-center text-5xl mb-6 shadow-inner animate-pulse","children":"🐾"}],["$","span",null,{"className":"px-3.5 py-1 text-xs font-bold text-emerald-700 bg-emerald-50 border border-emerald-200/60 rounded-full mb-3","children":"404 NOT FOUND"}],["$","h1",null,{"className":"text-2xl sm:text-3xl font-black text-slate-800 tracking-tight mb-2","children":"길을 잃었어요!"}],["$","p",null,{"className":"text-xs sm:text-sm text-slate-500 mb-8 max-w-[280px] leading-relaxed break-keep","children":"존재하지 않는 페이지이거나 주소가 잘못 입력되었어요. 귀여운 동물 친구들이 있는 홈으로 돌아가 볼까요?"}],["$","div",null,{"className":"w-full max-w-xs space-y-3","children":[["$","$La",null,{"href":"/","className":"block w-full py-3.5 px-6 text-center text-sm font-bold text-white bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 rounded-2xl shadow-lg shadow-emerald-400/30 active:scale-[0.98] transition-all","children":"홈으로 가기"}],["$","$La",null,{"href":"/test","className":"block w-full py-3.5 px-6 text-center text-sm font-bold text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-2xl active:scale-[0.98] transition-all","children":"검사 시작하기"}]]}]]}],[]]}]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"ISFJ 소리 없이 안아주는 따스한 온기 | 찌니 MBTI | 찌니 MBTI"}],["$","meta","1",{"name":"description","content":"묵묵한 정성과 배려로 곁을 지키며 안정을 주는 따스한 보호자예요. - 포근한 꿀단지 곰 수호천사(곰) 캐릭터와 성격 분석을 확인해보세요."}],["$","meta","2",{"property":"og:title","content":"ISFJ 소리 없이 안아주는 따스한 온기 | 찌니 MBTI"}],["$","meta","3",{"property":"og:description","content":"묵묵한 정성과 배려로 곁을 지키며 안정을 주는 따스한 보호자예요. - 포근한 꿀단지 곰 수호천사(곰) 캐릭터와 성격 분석을 확인해보세요."}],["$","meta","4",{"property":"og:site_name","content":"찌니 MBTI"}],["$","meta","5",{"property":"og:locale","content":"ko_KR"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"ISFJ 소리 없이 안아주는 따스한 온기 | 찌니 MBTI"}],["$","meta","9",{"name":"twitter:description","content":"묵묵한 정성과 배려로 곁을 지키며 안정을 주는 따스한 보호자예요. - 포근한 꿀단지 곰 수호천사(곰) 캐릭터와 성격 분석을 확인해보세요."}],["$","link","10",{"rel":"icon","href":"/mbti2/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$c"}},"a":"$@1e","u":"$@1f","b":"-g1vkZM__fCeolPpLXsQ8"}
+16:null
+c:300
+1f:true
+c:C
+1e:0
+11:"$undefined"
+e:"$undefined"
+b:"$undefined"
+1d:"$undefined"
+17:"$undefined"

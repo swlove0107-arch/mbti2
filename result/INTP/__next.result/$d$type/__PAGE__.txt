@@ -1,0 +1,37 @@
+1:"$Sreact.fragment"
+2:"/mbti2/_next/static/chunks/1_2cywsico7e4.js"
+3:"/mbti2/_next/static/chunks/00b8w5aq-5y7-.js"
+4:"/mbti2/_next/static/chunks/18r-tdc2l22u7.js"
+5:I[92205,["$2","$3","$4"],"default"]
+6:I[39756,["$2","$3","$4"],"default"]
+7:I[37457,["$2","$3","$4"],"default"]
+8:"/mbti2/_next/static/chunks/19ezvta8x0182.js"
+9:"/mbti2/_next/static/chunks/45bjy69cgoiz6.js"
+a:I[22016,["$2","$3","$4","$8","$9"],""]
+13:I[69881,["$2","$3","$4","$8","$9"],"default"]
+14:I[97367,["$2","$3","$4"],"OutletBoundary"]
+15:"$Sreact.suspense"
+18:"ViewportBoundary"
+19:I[97367,["$2","$3","$4"],"$18"]
+1a:"MetadataBoundary"
+1b:I[97367,["$2","$3","$4"],"$1a"]
+1c:I[27201,["$2","$3","$4"],"IconMark"]
+:HL["/mbti2/_next/static/chunks/1d8eht_b1sluj.css","style"]
+:HL["/mbti2/_next/static/chunks/0zzeq6_com2uj.css","style"]
+c:X
+f:X
+f:C
+12:[["children",{"s":"__PAGE__","h":160,"d":{"r":["$","$1","c",{"children":[["$","$L13",null,{"info":{"code":"INTP","nickname":"생각의 미로를 걷는 탐험가","summary":"세상의 모든 원리를 끊임없이 궁금해하는 자유로운 사색가예요.","description":"조용해 보이지만 머릿속에서는 기발한 아이디어와 이론이 쉼 없이 샘솟아요. 틀에 박힌 규칙보다는 자신만의 독창적인 논리로 문제를 풀어가는 데 큰 흥미를 느껴요. 관심 있는 분야를 만나면 시간 가는 줄 모르고 순수한 열정을 쏟아붓곤 해요.","strengths":["독창적이고 유연한 문제 해결력","객관적이고 날카로운 분석력","새로운 지식에 대한 무한한 탐구열"],"cautions":["생각에 너무 깊이 빠져 사소한 현실의 일들을 놓치기 쉬워요.","감정적인 위로가 필요한 대화에서 어색함을 느낄 수 있어요."],"compatibleTypes":["ENTJ","ESTJ"],"color":"#a78bfa","character":{"animal":"고양이","name":"호기심 많은 냥이 학자"}}}],[["$","script","script-0",{"src":"/mbti2/_next/static/chunks/19ezvta8x0182.js","async":true}],["$","script","script-1",{"src":"/mbti2/_next/static/chunks/45bjy69cgoiz6.js","async":true}]],["$","$L14",null,{"children":["$","$15",null,{"name":"Next.MetadataOutlet","children":"$@16"}]}]]}],"p":"$@17","v":null,"s":"$c"}}]]
+10:[["children",{"s":{"n":"type","t":"d","k":"INTP","s":[]},"h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@11","v":"$f","s":"$c"},"c":"$Q12"}]]
+d:[["children",{"s":"result","h":96,"d":{"r":["$","$1","c",{"children":[null,["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}]}]]}],"p":"$@e","v":"$f","s":"$c"},"c":"$Q10"}]]
+0:{"t":{"t":{"s":"","h":80,"d":{"r":["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/mbti2/_next/static/chunks/1d8eht_b1sluj.css","precedence":"next"}],["$","link","1",{"rel":"stylesheet","href":"/mbti2/_next/static/chunks/0zzeq6_com2uj.css","precedence":"next"}],["$","script","script-0",{"src":"/mbti2/_next/static/chunks/1_2cywsico7e4.js","async":true}],["$","script","script-1",{"src":"/mbti2/_next/static/chunks/00b8w5aq-5y7-.js","async":true}],["$","script","script-2",{"src":"/mbti2/_next/static/chunks/18r-tdc2l22u7.js","async":true}]],["$","html",null,{"lang":"ko","className":"MXmIMq_className","children":["$","body",null,{"className":"min-h-screen bg-emerald-50/40 text-slate-800 antialiased flex flex-col items-center","children":["$","$L5",null,{"children":["$","$L6",null,{"parallelRouterKey":"children","template":["$","$L7",null,{}],"notFound":[["$","div",null,{"className":"flex-1 flex flex-col items-center justify-center text-center py-16 px-4","children":[["$","div",null,{"className":"w-24 h-24 rounded-3xl bg-emerald-100/80 border border-emerald-200/60 flex items-center justify-center text-5xl mb-6 shadow-inner animate-pulse","children":"🐾"}],["$","span",null,{"className":"px-3.5 py-1 text-xs font-bold text-emerald-700 bg-emerald-50 border border-emerald-200/60 rounded-full mb-3","children":"404 NOT FOUND"}],["$","h1",null,{"className":"text-2xl sm:text-3xl font-black text-slate-800 tracking-tight mb-2","children":"길을 잃었어요!"}],["$","p",null,{"className":"text-xs sm:text-sm text-slate-500 mb-8 max-w-[280px] leading-relaxed break-keep","children":"존재하지 않는 페이지이거나 주소가 잘못 입력되었어요. 귀여운 동물 친구들이 있는 홈으로 돌아가 볼까요?"}],["$","div",null,{"className":"w-full max-w-xs space-y-3","children":[["$","$La",null,{"href":"/","className":"block w-full py-3.5 px-6 text-center text-sm font-bold text-white bg-gradient-to-r from-emerald-500 to-teal-500 hover:from-emerald-600 hover:to-teal-600 rounded-2xl shadow-lg shadow-emerald-400/30 active:scale-[0.98] transition-all","children":"홈으로 가기"}],["$","$La",null,{"href":"/test","className":"block w-full py-3.5 px-6 text-center text-sm font-bold text-slate-600 bg-slate-100 hover:bg-slate-200 rounded-2xl active:scale-[0.98] transition-all","children":"검사 시작하기"}]]}]]}],[]]}]}]}]}]]}],"p":"$@b","v":null,"s":"$c"},"c":"$Qd"},"h":{"r":["$","$1","h",{"children":[null,["$","$L19",null,{"children":[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]}],["$","$L1b",null,{"children":[["$","div",null,{"hidden":true,"children":["$","$15",null,{"name":"Next.Metadata","children":[["$","title","0",{"children":"INTP 생각의 미로를 걷는 탐험가 | 찌니 MBTI | 찌니 MBTI"}],["$","meta","1",{"name":"description","content":"세상의 모든 원리를 끊임없이 궁금해하는 자유로운 사색가예요. - 호기심 많은 냥이 학자(고양이) 캐릭터와 성격 분석을 확인해보세요."}],["$","meta","2",{"property":"og:title","content":"INTP 생각의 미로를 걷는 탐험가 | 찌니 MBTI"}],["$","meta","3",{"property":"og:description","content":"세상의 모든 원리를 끊임없이 궁금해하는 자유로운 사색가예요. - 호기심 많은 냥이 학자(고양이) 캐릭터와 성격 분석을 확인해보세요."}],["$","meta","4",{"property":"og:site_name","content":"찌니 MBTI"}],["$","meta","5",{"property":"og:locale","content":"ko_KR"}],["$","meta","6",{"property":"og:type","content":"article"}],["$","meta","7",{"name":"twitter:card","content":"summary_large_image"}],["$","meta","8",{"name":"twitter:title","content":"INTP 생각의 미로를 걷는 탐험가 | 찌니 MBTI"}],["$","meta","9",{"name":"twitter:description","content":"세상의 모든 원리를 끊임없이 궁금해하는 자유로운 사색가예요. - 호기심 많은 냥이 학자(고양이) 캐릭터와 성격 분석을 확인해보세요."}],["$","link","10",{"rel":"icon","href":"/mbti2/favicon.ico?favicon.117ezoe8m31dk.ico","sizes":"48x48","type":"image/x-icon"}],["$","$L1c","11",{}]]}]}],null]}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],"p":"$@1d","v":null,"s":"$c"}},"a":"$@1e","u":"$@1f","b":"-g1vkZM__fCeolPpLXsQ8"}
+16:null
+c:300
+1f:true
+c:C
+1e:0
+11:"$undefined"
+e:"$undefined"
+b:"$undefined"
+1d:"$undefined"
+17:"$undefined"

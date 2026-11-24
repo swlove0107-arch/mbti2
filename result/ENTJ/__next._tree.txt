@@ -1,0 +1,7 @@
+:HL["/mbti2/_next/static/chunks/1d8eht_b1sluj.css","style"]
+:HL["/mbti2/_next/static/chunks/0zzeq6_com2uj.css","style"]
+:HL["/mbti2/_next/static/media/9c3a14bf42618ef4-s.p.2q2xrf88wug3q.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+3:[["children",{"s":"__PAGE__","h":160}]]
+2:[["children",{"s":{"n":"type","t":"d","k":"ENTJ","s":[]},"h":96,"c":"$Q3"}]]
+1:[["children",{"s":"result","h":96,"c":"$Q2"}]]
+0:{"b":"-g1vkZM__fCeolPpLXsQ8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
